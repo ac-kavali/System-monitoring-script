@@ -1,1 +1,1 @@
-# System-monitoring-scripte
+# System-monitoring-script
